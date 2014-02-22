@@ -12,3 +12,105 @@ rtsp://liveedge.tvzune.tv:8756/appmudatodososdias092/tvi24mobile.stream
 rtsp://liveedge.tvzune.tv:8756/appmudatodososdias092/sicnoticiasmobile.stream
 #EXTINF:0, SIC RADICAL
 rtsp://liveedge.tvzune.tv:8756/appmudatodososdias092/sicradicalmobile.stream
+#EXTINF:0, Discovery
+rtsp://liveedge.tvzune.tv:8756/appmudatodososdias092/discoverymobile.stream
+#EXTINF:0,DISCOVERY CHANNEL
+rtsp://173.193.20.150:1935/mtv/master04
+#EXTINF:0,Discovery HD Theater
+rtsp://173.193.20.136:1935/mtv/discohd
+#EXTINF:0,Discovery Turbo
+rtsp://173.193.20.150:1935/mtv/92
+#EXTINF:0,Discovery ID
+rtsp://173.193.20.150:1935/mtv/105
+#EXTINF:0, ODISSEIA
+rtsp://liveedge.tvzune.tv:8756/appmudatodososdias092/odisseiamobile.stream
+#EXTINF:0,NAT GEO BR
+rtsp://173.193.20.150:1935/mtv/animal
+#EXTINF:0, DISNEY CHANEL
+rtsp://liveedge.tvzune.tv:8756/appmudatodososdias092/disneymobile.stream
+#EXTINF:0,DISNEY CHANNEL
+rtsp://173.193.20.150:1935/mtv/disney
+#EXTINF:0,DISNEY JUNIOR
+rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/67hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 pageUrl=http://75.126.217.6/videoteca/play live=true timeout=10
+#EXTINF:0,DISNEY XD
+rtsp://173.193.20.150:1935/mtv/60
+#EXTINF:0,DISNEY CHANNEL
+rtsp://173.193.20.150:1935/mtv/disney
+#EXTINF:0,DISNEY JUNIOR
+rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/67hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 pageUrl=http://75.126.217.6/videoteca/play live=true timeout=10
+#EXTINF:0,Drake e Josh
+http://204.45.108.26:1935/ctv/_definst_/drake/hasbahca.m3u8
+#EXTINF:0,Familia da Pesada
+http://204.45.108.74:1935/ctv/_definst_/family/hasbahca.m3u8
+#EXTINF:0,Galinha Pintadinha
+http://204.45.108.26:1935/ctv/_definst_/galinha/hasbahca.m3u8
+#EXTINF:0,Naruto
+http://204.45.108.26:1935/ctv/_definst_/naruto/hasbahca.m3u8
+#EXTINF:0,NICK JR
+rtsp://173.193.20.150:1935/mtv/nickjr
+#EXTINF:0,Pica Pau (2)
+http://204.45.108.26:1935/ctv/_definst_/picapau/hasbahca.m3u8
+#EXTINF:0,SIMPSONS (2)
+http://204.45.108.26:1935/ctv/_definst_/simpsons/hasbahca.m3u8
+#EXTINF:0,Tom e Jerry
+http://204.45.108.26:1935/ctv/_definst_/tom/hasbahca.m3u8
+#EXTINF:0,cartono
+rtsp://173.193.20.150:1935/mtv/brlive_0028
+#EXTINF:0,Batman
+http://204.45.108.26:1935/ctv/_definst_/batman/hasbahca.m3u8
+#EXTINF:0,Ben10
+http://204.45.108.26:1935/ctv/_definst_/ben10/hasbahca.m3u8
+#EXTINF:0,Bob Esponja
+http://204.45.108.26:1935/ctv/_definst_/bob/hasbahca.m3u8
+#EXTINF:0,CATVE CASCAVEL
+rtmp://stream.catve.com.br/live/livestream
+#EXTINF:0,Cavaleiros do Zodiaco
+http://204.45.108.26:1935/ctv/_definst_/cdz/hasbahca.m3u8
+#EXTINF:0,Caverna do Dragão (2)
+http://204.45.108.26:1935/ctv/_definst_/caverna/hasbahca.m3u8
+#EXTINF:0,CLAN
+http://media0.rtve.es/resources/TE_GLESP/mp4/5/1/1303316681415.mp4?aksessionid=1303766307140_392613
+#EXTINF:0, RTP INTERNACIONAL
+http://ca-edge-7.cdn2.streamago.tv/streamagoedge/22457/18666/chunklist.m3u8?wowzasessionid=641293469
+#EXTINF:0, RTP AFRICA
+rtsp://50.30.33.77:1935/rtpa/myStream.sdp
+#EXTINF:0, RTP AÇORES
+rtmp://ns6.viaoceanica.net/rtpa/myStream.sdp
+#EXTINF:0, EURONEWS
+http://82.102.4.252/m/channelp/playlist/temeunew_kjs83a92x4amcso304s.m3u8
+#EXTINF:0, EURONEWS PORTUGAL
+rtmp://fr-par-3.stream-relay.hexaglobe.net/rtpeuronewslive/pt_video350_rtp.sdp
+#EXTINF:0, MVM
+http://xmyowntestx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0, AXN
+rtsp://liveedge.tvzune.tv:8756/appmudatodososdias092/axnmobile.stream
+#EXTINF:0, FOX
+rtsp://liveedge.tvzune.tv:8756/appmudatodososdias092/foxmobile.stream
+#EXTINF:0, HOLLYWOOD
+rtsp://liveedge.tvzune.tv:8756/appmudatodososdias092/hollywoodmobile.stream
+#EXTINF:0,Criminal Minds
+http://204.45.108.26:1935/ctv/_definst_/criminal/hasbahca.m3u8
+#EXTINF:0,CSI (2)
+http://204.45.108.26:1935/ctv/_definst_/csi/hasbahca.m3u8
+#EXTINF:0, MTV
+rtsp://liveedge.tvzune.tv:8756/appmudatodososdias092/mtvmobile.stream
+#EXTINF:0, SPORT TV 1 HD
+rtsp://liveedge.tvzune.tv:8756/appmudatodososdias092/sporttv1mobile.stream
+#EXTINF:0, SPORT TV 2
+rtsp://liveedge.tvzune.tv:8756/appmudatodososdias092/sporttv2mobile.stream
+#EXTINF:0, SPORT TV 3
+rtsp://liveedge.tvzune.tv:8756/appmudatodososdias092/sporttv3mobile.stream
+#EXTINF:0, SPORT TV live
+rtsp://liveedge.tvzune.tv:8756/appmudatodososdias092/sporttvlivemobile.stream
+#EXTINF:0, EUROSPORT
+rtsp://liveedge.tvzune.tv:8756/appmudatodososdias092/eurosportmobile.stream
+#EXTINF:0, BENFICA TV
+rtsp://liveedge.tvzune.tv:8756/appmudatodososdias092/benficatvmobile.stream
+#EXTINF:0, Auto Hoje TV
+mms://tv.autohoje.com/mpltv
+#EXTINF:0, ECONOMICO TV
+http://213.13.26.12:1935/live/_definst_/etv_direto/SAT_TOTAL.m3u8
+#EXTINF:0, TV CIÊNCIA
+mmsh://193.136.192.150:80/tvciencia?MSWMExt=.asf
+#EXTINF:0, TV CIÊNCIA (Vídeos)
+mms://video-wm.tvciencia.pt/video/tvcnews_256.wmv
